@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "892813004265",
+    "firebase_url": "https://biblioteca-79ab4.firebaseio.com",
+    "project_id": "biblioteca-79ab4",
+    "storage_bucket": "biblioteca-79ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892813004265:android:747fb8bc224b6225",
+        "android_client_info": {
+          "package_name": "br.ufs.cienciainformacao.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892813004265-0ckb8lddnv5ombfio3qbnhdnk1pr7m2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.ufs.cienciainformacao.myapplication",
+            "certificate_hash": "E1858A3C1D7F182203C183F080852113BFB7252A"
+          }
+        },
+        {
+          "client_id": "892813004265-8q43qdeko0c4a8mpcf5aph19enjpdsfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4S4x9I1fYgqIhd2x-Mg724_9rEIsUinA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892813004265-8q43qdeko0c4a8mpcf5aph19enjpdsfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
